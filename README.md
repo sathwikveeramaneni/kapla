@@ -15,3 +15,5 @@ First I was registered as user and then loggedin through postman and through pos
 I have used mvc structure for coding.
 
 I have used jwt authentication for middleware.
+
+.env should not upload but you may run and test so I have kept that also.
